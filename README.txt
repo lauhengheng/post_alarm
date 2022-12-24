@@ -1,4 +1,5 @@
-（tips：uic-works库中是更为详细的作品集展示和证书及工作证明资料，请移步至uic-works库，thx~）uic作品集-python告警发邮件小工具 （本人后期学习时编写的小工具）
+（tips：uic-works库中是本人更为详细的作品集展示和证书及工作证明资料，请移步至uic-works库，thx~）
+uic作品集-python告警发邮件小工具 （本人后期学习时编写的小工具）
 python告警发邮件小工具 （本人后期学习时编写的小工具）
 OPEN-FALCON页面表单发送告警邮件
 author:lauheng
